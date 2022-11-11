@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: feature1
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 38.523 s <<< FAILURE! - in feature1
+feature1.enter user details  Time elapsed: 38.523 s  <<< ERROR!
+io.cucumber.java.PendingException: TODO: implement me
+	at stepDefinations.LoginPage_Steps.user_is_on_loginpage(LoginPage_Steps.java:14)
+	at ✽.user is on loginpage(file:///C:/Users/Krishna%20Mohan/eclipse-workspace/DataDrivenUsingExcelSheet/src/test/resources/features/loginPage/feature1.feature:3)
+
